@@ -1,2 +1,2 @@
 # AI with Python Notes
-# B3
+### B3 - Module Notes
