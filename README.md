@@ -1,2 +1,2 @@
-# AI with Python Class Notes
+# AI with Python Notes
 # B3
